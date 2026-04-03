@@ -22,3 +22,34 @@
 ![Followers](https://img.shields.io/github/followers/anhnhatdev?style=for-the-badge&color=6c63ff&labelColor=1a1b27&logo=github)
 
 </div>
+
+---
+
+<!-- ABOUT ME -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **About Me**
+
+```javascript
+const anh = {
+    name: "Phan Lê Nhật Anh",
+    role: "Fullstack Junior Developer",
+    company: "APL Tech Company",
+    location: "🇻🇳 Ho Chi Minh City, Vietnam",
+    currentFocus: "Building full-stack web applications",
+    funFact: "I debug with console.log and I'm not ashamed 😎",
+    
+    skills: {
+        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "Vite"],
+        backend:  ["Node.js", "Express", "NestJS"],
+        database: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+        devOps:   ["Docker", "GitHub Actions", "Vercel", "AWS"],
+        tools:    ["VS Code", "Figma", "Postman", "Git"]
+    },
+    
+    currentlyLearning: ["System Design", "Cloud Architecture", "DevOps"],
+    askMeAbout: ["Web Dev", "Tech", "Badminton 🏸", "Coffee ☕"],
+};
+```
+
+<br/>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
