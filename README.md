@@ -13,7 +13,6 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anhnhatdev)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhnhatdev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anhnhatdev.dev)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/anhnhatdev)
 
 <br/>
@@ -108,19 +107,19 @@ const anh = {
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anhnhatdev&show_icons=true&count_private=true&hide_border=true&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&bg_color=0d1117&ring_color=6c63ff" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnhatdev&layout=compact&hide_border=true&title_color=6c63ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=anhnhatdev&show_icons=true&count_private=true&theme=midnight-purple&title_color=6c63ff&text_color=c9d1d9&bg_color=0d1117&border_color=1a1b27" alt="GitHub Stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnhatdev&layout=compact&theme=midnight-purple&title_color=6c63ff&text_color=c9d1d9&bg_color=0d1117&border_color=1a1b27" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhnhatdev&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6c63ff&ring=6c63ff&fire=ff6b6b&currStreakLabel=6c63ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="GitHub Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhnhatdev&theme=midnight-purple&background=0d1117&stroke=6c63ff&ring=6c63ff&fire=ff6b6b&border=1a1b27" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- GITHUB TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anhnhatdev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anhnhatdev&theme=midnight-purple&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -129,7 +128,7 @@ const anh = {
 ## 📈 **Contribution Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anhnhatdev&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anhnhatdev&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -139,16 +138,16 @@ const anh = {
 
 <div align="center">
   <a href="https://github.com/anhnhatdev/smashmate">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=smashmate&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&description_lines_count=2" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=smashmate&theme=midnight-purple&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/anhnhatdev/smashmate-fe">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=smashmate-fe&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&description_lines_count=2" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=smashmate-fe&theme=midnight-purple&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/anhnhatdev/devpath-interview">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=devpath-interview&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&description_lines_count=2" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=devpath-interview&theme=midnight-purple&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/anhnhatdev/todolist-app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=todolist-app&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&description_lines_count=2" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=todolist-app&theme=midnight-purple&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
   </a>
 </div>
 
@@ -159,13 +158,11 @@ const anh = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anhnhatdev/anhnhatdev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anhnhatdev/anhnhatdev/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/anhnhatdev/anhnhatdev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anhnhatdev/anhnhatdev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anhnhatdev/anhnhatdev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/anhnhatdev/anhnhatdev/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
-> 💡 *Cần setup [Platane/snk](https://github.com/Platane/snk) GitHub Action để bật Snake animation!*
 
 ---
 
@@ -183,24 +180,12 @@ const anh = {
 
 <div align="center">
 
-Nếu bạn thích những gì tôi làm, hãy ủng hộ tôi một ly cà phê nhé! ❤️
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anhnhatdev)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/anhnhatdev)
 
 </div>
 
 ---
-
-<div align="center">
-
-### 🤝 **Let's Connect & Build Something Awesome Together!**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<br/>
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-</div>
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f7df1e,30:e44d26,50:6c63ff,70:161b22,100:0d1117&height=120&section=footer"/>
