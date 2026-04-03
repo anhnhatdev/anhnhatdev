@@ -70,21 +70,137 @@ const anh = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 **GitHub Statistics**
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anhnhatdev&show_icons=true&count_private=true&hide_border=true&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&bg_color=0d1117&ring_color=6c63ff" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnhatdev&layout=compact&hide_border=true&title_color=6c63ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhnhatdev&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6c63ff&ring=6c63ff&fire=ff6b6b&currStreakLabel=6c63ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anhnhatdev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 **Contribution Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anhnhatdev&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+## 🚀 **Featured Projects**
+
+<div align="center">
+  <a href="https://github.com/anhnhatdev/smashmate">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=smashmate&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/anhnhatdev/smashmate-fe">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=smashmate-fe&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/anhnhatdev/devpath-interview">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=devpath-interview&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/anhnhatdev/todolist-app">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=todolist-app&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&description_lines_count=2" />
+  </a>
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## 🐍 **Watch the Snake Eat My Contributions!**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anhnhatdev/anhnhatdev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anhnhatdev/anhnhatdev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/anhnhatdev/anhnhatdev/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+> 💡 *Cần setup [Platane/snk](https://github.com/Platane/snk) GitHub Action để bật Snake animation!*
+
+---
+
+<!-- RANDOM DEV QUOTE -->
+## 💭 **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Dev Quote"/>
+</div>
+
+---
+
+<!-- SUPPORT -->
+## ☕ **Support My Work**
+
+<div align="center">
+
+Nếu bạn thích những gì tôi làm, hãy ủng hộ tôi một ly cà phê nhé! ❤️
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anhnhatdev)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/anhnhatdev)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 **Let's Connect & Build Something Awesome Together!**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<br/>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+</div>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f7df1e,30:e44d26,50:6c63ff,70:161b22,100:0d1117&height=120&section=footer"/>
