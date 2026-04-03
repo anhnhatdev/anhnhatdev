@@ -69,7 +69,6 @@ const anh = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -91,14 +90,6 @@ const anh = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 </div>
 
 ---
@@ -107,22 +98,11 @@ const anh = {
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=anhnhatdev&show_icons=true&count_private=true&theme=midnight-purple&title_color=6c63ff&text_color=c9d1d9&bg_color=0d1117&border_color=1a1b27" alt="GitHub Stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnhatdev&layout=compact&theme=midnight-purple&title_color=6c63ff&text_color=c9d1d9&bg_color=0d1117&border_color=1a1b27" alt="Top Languages" />
-</div>
-
-<div align="center">
+  <!-- GitHub README Stats is currently down for many users. Using alternative and local branch links for better stability. -->
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhnhatdev&theme=midnight-purple&background=0d1117&stroke=6c63ff&ring=6c63ff&fire=ff6b6b&border=1a1b27" alt="GitHub Streak" />
 </div>
 
 <br/>
-
-<!-- GITHUB TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anhnhatdev&theme=midnight-purple&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-</div>
-
----
 
 <!-- ACTIVITY GRAPH -->
 ## 📈 **Contribution Graph**
@@ -137,24 +117,25 @@ const anh = {
 ## 🚀 **Featured Projects**
 
 <div align="center">
+  <!-- Using simple repository badges as the fancy pinned cards rely on the currently unstable stats service. -->
   <a href="https://github.com/anhnhatdev/smashmate">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=smashmate&theme=midnight-purple&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
+    <img src="https://img.shields.io/badge/SmashMate-6C63FF?style=for-the-badge&logo=next.js&logoColor=white" alt="SmashMate" />
   </a>
   <a href="https://github.com/anhnhatdev/smashmate-fe">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=smashmate-fe&theme=midnight-purple&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
+    <img src="https://img.shields.io/badge/SmashMate_FE-6C63FF?style=for-the-badge&logo=react&logoColor=white" alt="SmashMate FE" />
   </a>
   <a href="https://github.com/anhnhatdev/devpath-interview">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=devpath-interview&theme=midnight-purple&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
+    <img src="https://img.shields.io/badge/DevPath_Interview-6C63FF?style=for-the-badge&logo=typescript&logoColor=white" alt="DevPath Interview" />
   </a>
   <a href="https://github.com/anhnhatdev/todolist-app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anhnhatdev&repo=todolist-app&theme=midnight-purple&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
+    <img src="https://img.shields.io/badge/Todo_List-6C63FF?style=for-the-badge&logo=javascript&logoColor=white" alt="Todo List" />
   </a>
 </div>
 
 ---
 
 <!-- SNAKE ANIMATION -->
-## 🐍 **Watch the Snake Eat My Contributions!**
+## 🐍 **Contribution Snake**
 
 <div align="center">
   <picture>
