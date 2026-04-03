@@ -1,0 +1,3 @@
+# Profile README Concept: Senior Minimal
+
+... (content from step 12) ...
