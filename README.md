@@ -31,7 +31,7 @@
 const anh = {
     name: "Phan Lê Nhật Anh",
     role: "Fullstack Junior Developer",
-    company: "APL Tech Company",
+    company: "FPT T Tech Company",
     location: "🇻🇳 Ho Chi Minh City, Vietnam",
     currentFocus: "Building full-stack web applications",
     funFact: "I debug with console.log and I'm not ashamed 😎",
