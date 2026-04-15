@@ -34,7 +34,7 @@ const anh = {
     company: "FPT T Tech Company",
     location: "🇻🇳 Ho Chi Minh City, Vietnam",
     currentFocus: "Building full-stack web applications",
-    funFact: "I debug with console.log and I'm not ashamed 😎",
+    funFact: "I debug with console.log and I'm not ashamed",
     
     skills: {
         frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "Vite"],
