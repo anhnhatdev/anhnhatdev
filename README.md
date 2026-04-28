@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=5D7FA3&center=true&vCenter=true&width=720&lines=Building+production-ready+software+with+clean+architecture;Focus+on+backend+systems%2C+automation%2C+and+real+business+value;Sole+developer+of+an+AI-powered+B2B+invoice+platform" alt="Typing SVG" />
 </div>
 
-## Hi, I'm Anh
+## Hi, I'm Nhat Anh
 
 Backend-focused full-stack developer based in Ho Chi Minh City, Vietnam.
 
