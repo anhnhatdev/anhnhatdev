@@ -63,7 +63,7 @@ University lab backend system
 
 **University of Transport Ho Chi Minh City**  
 Bachelor of Information Technology  
-GPA: `3.62/4.0` | TOEIC: `600`
+GPA: `3.62/4.0` | TOEIC: `...`
 
 ## Achievements
 
